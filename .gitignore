@@ -123,3 +123,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.zip
+*.txt
+*.vec
+input/GoogleNews-vectors-negative300/GoogleNews-vectors-negative300.bin

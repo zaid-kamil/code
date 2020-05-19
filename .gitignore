@@ -126,4 +126,6 @@ dmypy.json
 *.zip
 *.txt
 *.vec
+*.bin
 input/GoogleNews-vectors-negative300/GoogleNews-vectors-negative300.bin
+input/train.csv
